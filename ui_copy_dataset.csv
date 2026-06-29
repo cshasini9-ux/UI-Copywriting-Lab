@@ -1,0 +1,34 @@
+copy_type,app_category,text,label
+Button Text,E-commerce,Buy Now,Excellent
+Button Text,E-commerce,Add to Cart,Excellent
+Button Text,E-commerce,Proceed to the Checkout Page to Finalize Your Purchase,Needs Improvement
+Button Text,Banking,Transfer Money,Excellent
+Button Text,Banking,Initiate a Fund Transfer Transaction,Needs Improvement
+Button Text,Social Media,Post,Excellent
+Button Text,Social Media,Share Your Thoughts With Everyone Now,Good
+Button Text,Fitness,Start Workout,Excellent
+Button Text,Fitness,Commence Your Exercise Regimen,Needs Improvement
+Button Text,Food Delivery,Order Now,Excellent
+Error Message,E-commerce,Something went wrong. Please try again.,Good
+Error Message,E-commerce,Error 4042: An unexpected exception occurred during transaction processing.,Needs Improvement
+Error Message,Banking,Your payment could not be processed. Please check your card details.,Good
+Error Message,Banking,Insufficient funds. Please add money and try again.,Excellent
+Error Message,Social Media,Post failed to upload. Check your connection and retry.,Good
+Error Message,Fitness,We couldn't sync your workout data. Try again shortly.,Good
+Error Message,Food Delivery,Restaurant unavailable. Please choose another one.,Excellent
+Error Message,Food Delivery,An unanticipated server-side anomaly has occurred,Needs Improvement
+Success Message,E-commerce,Order placed successfully!,Excellent
+Success Message,Banking,Money transferred successfully.,Excellent
+Success Message,Social Media,Your post is now live.,Excellent
+Success Message,Fitness,Workout completed. Great job!,Excellent
+Success Message,Food Delivery,Your order has been confirmed and is being prepared.,Good
+Notification,E-commerce,Your order is out for delivery.,Excellent
+Notification,Banking,A new transaction was made on your account.,Good
+Notification,Social Media,You have 3 new notifications.,Excellent
+Notification,Fitness,Time for your daily workout reminder!,Excellent
+Notification,Food Delivery,Your food will arrive in 10 minutes.,Excellent
+Onboarding Message,E-commerce,Welcome! Let's find products you'll love.,Excellent
+Onboarding Message,Banking,Welcome aboard. Let's set up your account securely.,Good
+Onboarding Message,Social Media,Welcome! Connect with friends and share your moments.,Excellent
+Onboarding Message,Fitness,Welcome! Let's build healthy habits together.,Excellent
+Onboarding Message,Food Delivery,Welcome! Discover delicious meals near you.,Excellent
